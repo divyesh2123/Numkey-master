@@ -43,6 +43,8 @@ export default function App() {
 
   return (
     <div className="App">
+      
+      
       <input
         value={input}
         placeholder={"Tap on the virtual keyboard to start"}
